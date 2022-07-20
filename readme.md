@@ -1,0 +1,2 @@
+Bienvenido a nuestro proyecto integradora para el tercer semestre de nuestra Universidad Tecnologica de Coahuila.
+Esta es una Aplicacion Web para una tienda de videojuegos, donde nuestros clientes podran comprar claves de videojuegos para su plataforma favorita.
