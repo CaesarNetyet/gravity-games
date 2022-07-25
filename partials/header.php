@@ -11,7 +11,12 @@
   </head>
   <body>
   <nav class="navbar navbar-light bg-light">
-    <div class="container">
+    <div class="container d-flex ms-auto">
         <a href="index.php" class="navbar-brand text-primary text-opacity-75"> GRAVITY GAMES</a>
+
+        <div class="session">
+          <a class="btn btn-primary" href="login.php">Login</a>
+          <a class="btn btn-warning" href="signup.php">Register</a>
+        </div>
     </div>
 </nav>
